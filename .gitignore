@@ -1,0 +1,43 @@
+/opt
+\#*\#
+.\#*
+/TAGS
+/cscope.files
+/cscope.out
+*~
+debug/
+release/
+build
+vscode-build/
+cmake-build-*
+ui-build/
+.vscode/
+.idea/
+nbproject/
+core
+*.pyc
+*.log
+.DS_Store
+.ycm_extra_conf.py
+
+# Swap
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-rt-v][a-z]
+[._]ss[a-gi-z]
+[._]sw[a-p]
+
+# Session
+Session.vim
+SESSION.vim
+
+# Temporary
+.netrwhist
+*~
+# Auto-generated tag files
+tags
+TAGS
+# Persistent undo
+[._]*.un~
+screenlog.0
+
